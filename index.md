@@ -7,3 +7,7 @@ Made a correct statement as header
 ``` javascript
 var myVar = "Good Morning";
 ```
+
+- [ ] Meet Josh Allen
+- [ ] Meet Michael Jordan
+- [ ] Meet RDJ
